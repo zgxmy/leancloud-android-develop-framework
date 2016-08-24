@@ -147,7 +147,7 @@
         * userName  :  用户名
         * password  :  密码
     * getClassName()  :  返回null
-    * getWay()  :  返回UPDATE
+    * getWay()  :  返回LOGIN
 
   * 注册请求
     * 构造方法  :  XXXRequest(Context context, String userName,String password)<br>
